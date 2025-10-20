@@ -53,11 +53,11 @@ void draw() {
     // run fft algorithm to analyse spectrum of SoundFile input using fft
     fft.analyze(spectrum);
   
-    // loop over each band
+    // loop over each frequency band
     for(int i = 0; i < bands; i++){
-        // get percentage of how much we've done so far
         float p = i / (float) bands;
-        // interpolate color to find correct color based on our current band
+
+        // interpolate color to create gradient effect
         color c = lerpColor(yellow, gold, p);
         
         // get brightness to respond based on amplitude 
