@@ -1,9 +1,9 @@
 # visualisingscoreusingfft
-> Using a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of an imported SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land being played on piano. This project was adapted from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b)
+> This project uses a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of an imported SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land being played on piano. This project was adapted from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b)
  
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Coding Environment](#Coding-Environment)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -16,18 +16,11 @@
 
 
 ## General Information
-Using 
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This project falls under the artistic challenge category. I really love the score from this film and wanted to see how the code languages of music and java in processing could intersect to create a piece of visual art. This project evolved as the semester progressed, with this initially being planned as a soundwave style drawing, but through research was inspired to add a technical aspect to this project, finding I could measure the frequency and amplitude of a SoundFile in processing. I was excited to learn more about how sound is visualised in different ways using processing and do my own experimentation in processing to develop my skills using the program. 
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+## Coding Environment
+Though I had initially planned to use both Processing and TunePad, I decided to challenge myself differently by recording myself playing the piece instead of developing it in TunePad, bringing this outside skillset into the coding environment. I then used Processing to create my visualisation, inputting the SoundFile into the existing source code. Using Processing's Sound Library, as well as Processing in Java, Processing was able to visualise the frequency and amplitude of the SoundFile. I challenged myself by implementing a few stretch goals to change the visualisation's shape and colour.
 
 ## Features
 List the ready features here:
@@ -42,10 +35,7 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+This project didn't require much setup - but Once I downloaded the 
 
 ## Usage
 How does one go about using it?
