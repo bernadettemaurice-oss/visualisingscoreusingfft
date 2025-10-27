@@ -11,7 +11,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -61,14 +60,7 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+This project was inspired from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b). I also used a few other resources to help me to import my SoundFile and implement my stretch goals. I used Processing's online resources, as well as resources from YouTube. To import my SoundFile, I used a tutorial from [John McCaffrey](https://www.youtube.com/watch?v=I6fG1wneXWo), which was particularly helpful. I also used the feedback from my peers and tutor during tutorials to troubleshoot issues and advance my project. 
 
 
 <!-- Optional -->
