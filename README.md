@@ -22,11 +22,9 @@ This project falls under the artistic challenge category. I really love the scor
 Though I had initially planned to use both Processing and TunePad, I decided to challenge myself differently by recording myself playing the piece instead of developing it in TunePad, bringing this outside skillset into the coding environment. I then used Processing to create my visualisation, inputting the SoundFile into the existing source code. Using Processing's Sound Library, as well as Processing in Java, Processing was able to visualise the frequency and amplitude of the SoundFile. I challenged myself by implementing a few stretch goals to change the visualisation's shape and colour.
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+The SoundFile input using code
+The FFT visualiser creating frequency bands, which were adjusted using...
+The colours reflecting the film's colour palette, adjusted using.... 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -34,7 +32,7 @@ List the ready features here:
 
 
 ## Setup
-This project didn't require much setup - but Once I downloaded the 
+This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was an mp3 to input into the project. 
 
 ## Usage
 How does one go about using it?
