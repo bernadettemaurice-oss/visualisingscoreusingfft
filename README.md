@@ -1,7 +1,6 @@
 # visualisingscoreusingfft
-> Using a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of a SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land on piano. 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-
+> Using a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of an imported SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land being played on piano. This project was adapted from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b)
+ 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -17,7 +16,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+Using 
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
