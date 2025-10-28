@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Coding Environment](#Coding-Environment)
 * [Functionality](#functionality)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement/Extension](#room-for-improvement/extension)
@@ -27,10 +26,6 @@ The main function of this visual is representing and analysing the SoundFile inp
 - To add an extra challenge I wanted the colour on the bars to be dynamic, as in the original source code the colour across the bars was an interpolation of 2 colours. Instead, the colour is reactive, lighting up in response to amplitude.
 - The SoundFile plays and loops automatically using music.loop().
 - The colours of the visual are inspired by the colour palette of 'La La Land' with the indigo background and golden yellow bars reflecting the colours on the film's poster. I experimented with a few different styles and shapes but felt that the bands with this colouring was the best fit aesthetically and technically. 
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
 This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
