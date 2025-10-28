@@ -7,7 +7,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -22,24 +21,14 @@ This project falls under the artistic challenge category. I really love the scor
 Though I had initially planned to use both Processing and TunePad, I decided to challenge myself differently by recording myself playing the piece instead of developing it in TunePad, bringing this outside skillset into the coding environment. I then used Processing to create my visualisation, inputting the SoundFile into the existing source code. Using Processing's Sound Library, as well as Processing in Java, Processing was able to visualise the frequency and amplitude of the SoundFile. I challenged myself by implementing a few stretch goals to change the visualisation's shape and colour.
 
 ## Features
-The SoundFile input using code
-The FFT visualiser creating frequency bands, which were adjusted using...
-The colours reflecting the film's colour palette, adjusted using.... 
+There are several core features that make this visual unique. The FFT creates 64 frequency bands across the canvas that represent frequency (the ear perceives this as pitch) on the x axis, and amplitude (perceived as volume) on the y axis. The FFT visualiser creates frequency bands, which were determined by using ? and the amount of bands across the spectrum is determined by int = 64. The SoundFile plays and loops using the class music.play and music.loop. The design of the visual was inspired by the colour palette of the film, with the indigo in the background and the frequency bands yellow. Instead of the colour across the bands being fixed, I decided to try to and get the colour to also respond to sound, with the bands filled according to the sound's amplitude. This creates a vibrant and reactive visualisation. I tried a few different styles and shapes but felt that the bands with this colouring was the most aesthetically pleasing.   
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
 ## Setup
-This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was an mp3 to input into the project. 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
 
 ## Project Status
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
