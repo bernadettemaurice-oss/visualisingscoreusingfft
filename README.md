@@ -8,7 +8,7 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Room for Improvement/Extension](#room-for-improvement/extension)
 * [Acknowledgements](#acknowledgements)
 <!-- * [License](#license) -->
 
@@ -34,7 +34,7 @@ This project didn't require much setup. Once I downloaded the processing sound l
 Project is _complete_ 
 
 
-## Room for Improvement
+## Room for Improvement/Extension
 Though there are a variety of ways I could experiment with and extend this project, below are some potential extensions of the project I could try and areas I could improve on. 
 - I could try using TunePad to bridge two different coding environments together.
 - I believe in future, I could elevate this project by using a different shape/style to visualise the frequency and amplitude like a SoundWave. Though I did try and experiment with this, it only produced a singular line, so I could maybe in future do my own drawing of a SoundWave with bars - similar to this visualisation by [thedotisblack](https://www.youtube.com/shorts/FSV5qoVCy2g).
@@ -48,5 +48,3 @@ This project was inspired from Noah Hradek on [ Medium ](https://medium.com/@noa
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
