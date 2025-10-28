@@ -31,7 +31,7 @@ There are several core features that make this visual unique. The FFT creates 64
 This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is _complete_ 
 
 
 ## Room for Improvement
