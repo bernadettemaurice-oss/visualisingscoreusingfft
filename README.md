@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Coding Environment](#Coding-Environment)
-* [Features](#features)
+* [Functionality](#functionality)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -18,10 +18,10 @@ This project falls under the artistic challenge category. I really love the scor
 
 
 ## Coding Environment
-Though I had initially planned to use both Processing and TunePad, I decided to challenge myself differently by recording myself playing the piece instead of developing it in TunePad, bringing this outside skillset into the coding environment. I then used Processing to create my visualisation, inputting the SoundFile into the existing source code. Using Processing's Sound Library, as well as Processing in Java, Processing was able to visualise the frequency and amplitude of the SoundFile. I challenged myself by implementing a few stretch goals to change the visualisation's shape and colour.
+Though I had initially planned to use both Processing and TunePad, I decided to challenge myself in a different way by recording myself playing the piece instead of developing it in TunePad, bringing this outside skillset into the coding environment. I then used Processing to create my visualisation, inputting the SoundFile into the existing source code. Using Processing's Sound Library, as well as Processing in Java, Processing was able to visualise the frequency and amplitude of the SoundFile. I challenged myself by implementing a few stretch goals to change the visualisation's shape and colour.
 
-## Features
-There are several core features that make this visual unique. The FFT creates 64 frequency bands across the canvas that represent frequency (the ear perceives this as pitch) on the x axis, and amplitude (perceived as volume) on the y axis. The FFT visualiser creates frequency bands, which were determined by using ? and the amount of bands across the spectrum is determined by int = 64. The SoundFile plays and loops using the class music.play and music.loop. The design of the visual was inspired by the colour palette of the film, with the indigo in the background and the frequency bands yellow. Instead of the colour across the bands being fixed, I decided to try to and get the colour to also respond to sound, with the bands filled according to the sound's amplitude. This creates a vibrant and reactive visualisation. I tried a few different styles and shapes but felt that the bands with this colouring was the most aesthetically pleasing.   
+## Functionality
+The main function of this visual is representing and analysing the SoundFile input, which was done using the FFT in Processing's sound library. The sound is divided into 64 frequency bands/bars across the canvas which was done using the variable int = 64. These bars on the x axis represent a range of frequencies (the ear perceives this as pitch) from bass to treble, with bass on the left and treble on the right. On the y axis, the visual represents the amplitude of the SoundFile, with the height of the bands representing the volume/strength of the sound. To add an extra challenge I wanted the colour on the bars to be dynamic, as in the original source code the colour across the bars was an interpolation of 2 colours. Instead, the colour is reactive, lighting up in response to amplitude. The SoundFile plays and loops automatically using music.loop().The colours of the visual are inspired by the colour palette of 'La La Land' with the indigo background and golden yellow bars reflecting the colours on the film's poster. I experimented with a few different styles and shapes but felt that the bands with this colouring was the best fit aesthetically and technically. 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -35,15 +35,10 @@ Project is _complete_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Though there is a variety of potential ways I could experiment and stretch this project, below are some potential extensions of the project I could try and areas I could improve on. 
+- I could use TunePad to bridge two different coding environments together.
+- I believe in future, I could elevate this project by using a different shape/style to visualise the frequency and amplitude like a SoundWave. Though I did try and experiment with this, it only produced a singular line, so I could maybe in future do my own drawing of a SoundWave with bars - similar to this visualisation by [thedotisblack](https://www.youtube.com/shorts/FSV5qoVCy2g). In future, I could try label the axes, labelling where the bass, mid and treble zones are across the FFT visual. Though there are a lot of potential ways to experiment and 
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
