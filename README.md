@@ -35,10 +35,10 @@ Project is _complete_
 
 
 ## Room for Improvement
-Though there is a variety of potential ways I could experiment and stretch this project, below are some potential extensions of the project I could try and areas I could improve on. 
-- I could use TunePad to bridge two different coding environments together.
-- I believe in future, I could elevate this project by using a different shape/style to visualise the frequency and amplitude like a SoundWave. Though I did try and experiment with this, it only produced a singular line, so I could maybe in future do my own drawing of a SoundWave with bars - similar to this visualisation by [thedotisblack](https://www.youtube.com/shorts/FSV5qoVCy2g). In future, I could try label the axes, labelling where the bass, mid and treble zones are across the FFT visual. Though there are a lot of potential ways to experiment and 
-
+Though there are a variety of ways I could experiment with and extend this project, below are some potential extensions of the project I could try and areas I could improve on. 
+- I could try using TunePad to bridge two different coding environments together.
+- I believe in future, I could elevate this project by using a different shape/style to visualise the frequency and amplitude like a SoundWave. Though I did try and experiment with this, it only produced a singular line, so I could maybe in future do my own drawing of a SoundWave with bars - similar to this visualisation by [thedotisblack](https://www.youtube.com/shorts/FSV5qoVCy2g).
+- Could extend myself by labelling the axes; labelling where the bass, mid and treble zones are across the FFT visual. 
 
 
 ## Acknowledgements
