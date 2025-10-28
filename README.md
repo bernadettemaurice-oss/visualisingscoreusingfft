@@ -1,5 +1,5 @@
 # visualisingscoreusingfft
-> This project uses a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of an imported SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land being played on piano. This project was adapted from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b).
+> This project uses a Fast Fourier Transform (FFT) to visualise the frequency and amplitude of an imported SoundFile. The SoundFile is the piece 'Mia and Sebastian's Theme' from the 2016 film La La Land being played on piano. This project was adapted from Noah Hradek on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b). This is in the repository in the folder reference_code. 
  
 ## Table of Contents
 * [General Info](#general-information)
@@ -25,7 +25,8 @@ The main function of this visual is representing and analysing the SoundFile inp
 - On the y axis, the visual represents the amplitude of the SoundFile, with the height of the bands representing the volume/strength of the sound.
 - To add an extra challenge I wanted the colour on the bars to be dynamic, as in the original source code the colour across the bars was an interpolation of 2 colours. Instead, the colour is reactive, lighting up in response to amplitude.
 - The SoundFile plays and loops automatically using music.loop().
-- The colours of the visual are inspired by the colour palette of 'La La Land' with the indigo background and golden yellow bars reflecting the colours on the film's poster. I experimented with a few different styles and shapes but felt that the bands with this colouring was the best fit aesthetically and technically. 
+- The colours of the visual are inspired by the colour palette of 'La La Land' with the indigo background and golden yellow bars reflecting the colours on the film's poster. I experimented with a few different styles and shapes but felt that the bands with this colouring was the best fit aesthetically and technically.
+- Some iterations of my prototype are in the repository under ver_one and ver_two. Ver_one is the SoundFile input with the reference code, while ver_two documents the changes in colour from the reference. 
 
 ## Setup
 This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
