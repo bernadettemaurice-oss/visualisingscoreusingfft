@@ -43,7 +43,7 @@ Though there are a variety of ways I could experiment with and extend this proje
 
 
 ## Acknowledgements
-This project was inspired by the work of Noah Hradek posted on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b).I also used a few other resources to help me to import my SoundFile and implement my stretch goals. I used Processing's online resources, as well as resources from YouTube. To import my SoundFile, I used a tutorial from [John McCaffrey](https://www.youtube.com/watch?v=I6fG1wneXWo), which was particularly helpful. I also used the feedback from my peers and tutor during tutorials to troubleshoot issues and advance my project, and thank them for their input across the semester. This README was adapted from ritaly.(2018). 
+This project was inspired by the work of Noah Hradek posted on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b).I also used a few other resources to help me to import my SoundFile and implement my stretch goals. I used Processing's online resources, as well as resources from YouTube. To import my SoundFile, I used a tutorial from [John McCaffrey](https://www.youtube.com/watch?v=I6fG1wneXWo), which was particularly helpful. I also used the feedback from my peers and tutor during tutorials to troubleshoot issues and advance my project, and thank them for their input across the semester. This README was adapted from [ritaly.(2018)](https://github.com/ritaly/README-cheatsheet). 
 
 
 <!-- Optional -->
