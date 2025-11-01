@@ -13,7 +13,7 @@
 
 
 ## General Information
-This project falls under the artistic challenge category. I really love the score from this film and wanted to see how the code languages of music and java in processing could intersect to create a piece of visual art. This project evolved as the semester progressed, with this initially being planned as a soundwave style drawing, but through research was inspired to add a technical aspect to this project, finding I could measure the frequency and amplitude of a SoundFile in processing. I was excited to learn more about how sound is visualised in different ways using processing and do my own experimentation in processing to develop my skills using the program. 
+This project falls under the artistic challenge category. I really love the score from this film and wanted to see how the code languages of music and java in Processing could intersect to create a piece of visual art. This project evolved as the semester progressed, with this initially being planned as a soundwave style drawing, but through research was inspired to add a technical aspect to this project, finding I could measure the frequency and amplitude of a SoundFile in Processing. I was excited to learn more about how sound is visualised in different ways using Processing and do my own experimentation in Processing to develop my skills using the program. 
 
 
 ## Coding Environment
@@ -29,7 +29,7 @@ The main function of this visual is representing and analysing the SoundFile inp
 - Some iterations of my prototype are in the repository under ver_one and ver_two. Ver_one is the SoundFile input with the reference code, while ver_two documents the changes in colour from the reference. 
 
 ## Setup
-This project didn't require much setup. Once I downloaded the processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
+This project didn't require much setup. Once I downloaded the Processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was Processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
 
 ## Project Status
 Project is _complete_ 
