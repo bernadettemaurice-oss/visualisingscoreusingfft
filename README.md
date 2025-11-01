@@ -32,7 +32,7 @@ The main function of this visual is representing and analysing the SoundFile inp
 This project didn't require much setup. Once I downloaded the Processing sound library and inputted the source code, the FFT visualiser was able to run. All I needed was Processing downloaded onto my device, the sound library and java, and an mp3 to input into the project. 
 
 ## Project Status
-Project is _complete_ 
+Project is _complete._ 
 
 
 ## Room for Improvement/Extension
@@ -43,7 +43,7 @@ Though there are a variety of ways I could experiment with and extend this proje
 
 
 ## Acknowledgements
-This project was inspired by the work of Noah Hradek posted on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b). I also used a few other resources to help me to import my SoundFile and implement my stretch goals. I used Processing's online resources, as well as resources from YouTube. To import my SoundFile, I used a tutorial from [John McCaffrey](https://www.youtube.com/watch?v=I6fG1wneXWo), which was particularly helpful. I also used the feedback from my peers and tutor during tutorials to troubleshoot issues and advance my project, and thank them for their input across the semester.  
+This project was inspired by the work of Noah Hradek posted on [ Medium ](https://medium.com/@noahhradek/making-a-frequency-visualizer-in-processing-e3750c699a7b).I also used a few other resources to help me to import my SoundFile and implement my stretch goals. I used Processing's online resources, as well as resources from YouTube. To import my SoundFile, I used a tutorial from [John McCaffrey](https://www.youtube.com/watch?v=I6fG1wneXWo), which was particularly helpful. I also used the feedback from my peers and tutor during tutorials to troubleshoot issues and advance my project, and thank them for their input across the semester. This README was adapted from ritaly.(2018). 
 
 
 <!-- Optional -->
